@@ -1,0 +1,21 @@
+{
+    "name": "epoint/zpm",
+    "description": "aplikasi E-point sytem managment",
+    "type": "cms",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.25"
+    },
+    "config": {
+        "platform": {
+            "php": "7.3"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aji Arian Nofa",
+            "email": "adjiersandr@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
