@@ -4,6 +4,7 @@ E-Point adalah aplikasi untuk membantu guru memberikan penilain secara langsung 
 # programer
 pengembang pada aplikasi ini adalah : <br>
 - AJI ARIAN NOFA <br><br>
+-Instagram : adjie_rs<br>
 
 
 # note
@@ -15,7 +16,7 @@ file database ada di folder `` database `` dengan nama `` pelanggaran.sql `` jgn
 
 # login panel
 untuk admin <br/>
-usename : superadmin <br/>
+usename : admin <br/>
 password : acouster <br/><br/>
 
 untuk guru <br/>
