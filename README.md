@@ -4,7 +4,7 @@ E-Point adalah aplikasi untuk membantu guru memberikan penilain secara langsung 
 # programer
 pengembang pada aplikasi ini adalah : <br>
 - AJI ARIAN NOFA <br><br>
--Instagram : adjie_rs<br>
+Instagram : adjie_rs<br>
 
 
 # note
